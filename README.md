@@ -7,10 +7,10 @@ Vale la pena mencionar que la SSalud no archiva los PDFs que publica y tiende a 
 
 
 
-![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/01_acumulados_2020_03_23.png)
+![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/01_acumulados_2020_03_24.png)
 
 
-![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/02_nuevos_2020_03_23.png)
+![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/02_nuevos_2020_03_24.png)
 
 
 
