@@ -13,10 +13,10 @@ Además de que este formato ya representa una barrera para el seguimiento del fe
 
 
 
-![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_27_01_acumulados.png)
+![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_28_01_acumulados.png)
 
 
-![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_27_02_nuevos.png)
+![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_28_02_nuevos.png)
 
 
 
