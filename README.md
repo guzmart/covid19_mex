@@ -11,12 +11,14 @@ El día 26 de marzo la Secretaría de Salud reportó que ya se contabilizaban 58
 
 Además de que este formato ya representa una barrera para el seguimiento del fenómeno, la forma en la que se agregan nuevos casos confirmados es resaltándolos en azul. Esto obliga a la usuaria a tener que transcribir y revisar de forma manual, y a diario, el documento. El día de ayer, 26 de marzo, la Secretaría de Salud borró una observación que había publicado como confirmada el día 22 de marzo; ésta, a la fecha del día 25 de marzo, tenía el folio 302 asignado (Jalisco, Masculio, 31 años, fecha_sintomas 18/03/2020). Al cometer esta omisión, el análisis que resulte de la información pública dejará de coincidir con todo lo presentado en la conferencia vespertina: desde el conteo de casos acumulados, hasta la desagregación de casos por entidad federativa. En tiempos de incertidumbre, garantizar la información pública no sólo es obligación del Estado, sino que ésta, además, da certeza de la forma en la que se están implementando las políticas públicas. A partir del 26 de marzo, las bases de datos depositadas en este repositorio no coincidirán con lo presentado en las conferencias vespertinas debido a un error que **la Secretaría de Salud pudo y debió evitar**.
 
+Para que los datos sean consistentes con los presentados con la Secretaría de Salud es necesario aplicar un "filter(!inconsistencia_omision==1)" dentro del código.
 
 
-![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_29_01_acumulados.png)
+
+![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_30_01_acumulados.png)
 
 
-![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_29_02_nuevos.png)
+![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_30_02_nuevos.png)
 
 
 
