@@ -15,10 +15,10 @@ Para que los datos sean consistentes con los presentados con la Secretaría de S
 
 
 
-![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_30_01_acumulados.png)
+![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_31_01_acumulados.png)
 
 
-![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_30_02_nuevos.png)
+![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_03_31_02_nuevos.png)
 
 
 
