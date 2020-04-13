@@ -10,10 +10,12 @@ A partir del 06 de abril, este repositorio capturará sólo análisis agregados,
 
 
 
-![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_04_06_01_acumulados.png)
+![acumulados](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_04_12_01_acumulados.png)
 
 
-![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_04_06_02_nuevos.png)
+![nuevos_casos](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_04_12_02_nuevos.png)
+
+![mundial](https://github.com/guzmart/covid19_mex/blob/master/03_gra%CC%81ficas/2020_04_12_03_mundial.png)
 
 
 
